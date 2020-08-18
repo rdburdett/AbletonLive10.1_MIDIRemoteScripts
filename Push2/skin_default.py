@@ -31,7 +31,7 @@ class Colors(ColorsBase):
 
     class Instrument:
         NoteBase = make_selected_track_color()
-        NoteScale = Rgb.WHITE
+        NoteScale = Rgb.BLACK
         NoteNotScale = Rgb.BLACK
         NoteInvalid = Rgb.BLACK
         Feedback = Rgb.GREEN
